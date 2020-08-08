@@ -1,1 +1,2 @@
 new branch, merge master to branch then branch to master.
+Changes to master after creation of new branch
